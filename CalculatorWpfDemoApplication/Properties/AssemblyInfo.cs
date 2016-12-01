@@ -1,16 +1,15 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
-using System.Windows;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CalculatorWpfDemoApplication")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("CalculatorDemoApp")]
+[assembly: AssemblyDescription("Add a CalculatorBehavior to a TextBox in Xaml apps for Win 8.1, WPF and Universal (Windows 10)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CalculatorWpfDemoApplication")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyCompany("Reflection IT")]
+[assembly: AssemblyProduct("CalculatorDemoApp")]
+[assembly: AssemblyCopyright("Copyright © Reflection IT 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

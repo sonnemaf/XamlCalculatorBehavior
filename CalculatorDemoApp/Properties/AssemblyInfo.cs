@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("CalculatorDemoApp")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Add a CalculatorBehavior to a TextBox in Xaml apps for Win 8.1, WPF and Universal (Windows 10)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Reflection IT")]
 [assembly: AssemblyProduct("CalculatorDemoApp")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyCopyright("Copyright © Reflection IT 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

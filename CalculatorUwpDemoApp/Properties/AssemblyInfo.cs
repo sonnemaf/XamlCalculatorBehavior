@@ -4,12 +4,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CalculatorUwpDemoApp")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("CalculatorDemoApp")]
+[assembly: AssemblyDescription("Add a CalculatorBehavior to a TextBox in Xaml apps for Win 8.1, WPF and Universal (Windows 10)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CalculatorUwpDemoApp")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCompany("Reflection IT")]
+[assembly: AssemblyProduct("CalculatorDemoApp")]
+[assembly: AssemblyCopyright("Copyright © Reflection IT 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
