@@ -7,7 +7,8 @@ namespace CalculatorUwpDemoApp.Behaviors {
 
     class CalculatorBehavior : Behavior<TextBox> {
 
-        private static readonly ExpressionEvaluator _evaluator = new ExpressionEvaluator();
+        private static readonly ExpressionEvaluator _evaluator = 
+            new ExpressionEvaluator();
 
         protected override void OnAttached() {
             base.OnAttached();
