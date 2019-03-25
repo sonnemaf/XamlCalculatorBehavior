@@ -12,13 +12,14 @@
         <StackPanel HorizontalAlignment="Center"
                     Orientation="Vertical"
                     VerticalAlignment="Center"
+                    Spacing="8"
                     Width="300">
             <TextBox>
                 <Interactivity:Interaction.Behaviors>
                     <Behaviors:CalculatorBehavior />
                 </Interactivity:Interaction.Behaviors>
             </TextBox>
-            <TextBox Margin="0,8">
+            <TextBox>
                 <Interactivity:Interaction.Behaviors>
                     <Behaviors:CalculatorBehavior />
                 </Interactivity:Interaction.Behaviors>
